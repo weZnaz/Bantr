@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Bantr</string>
+    <string name="email">Email</string>
+    <string name="password" />
+    <string name="Friends" />
+</resources>

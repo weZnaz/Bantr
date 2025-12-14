@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "908111460895",
+    "project_id": "bantr-764ee",
+    "storage_bucket": "bantr-764ee.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:908111460895:android:e0b22d66d2f151e70ab32a",
+        "android_client_info": {
+          "package_name": "com.example.bantr"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqy8cIaHsp0fnsoNIc2bljijVvBzUOk4k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
