@@ -29,7 +29,7 @@ Bantr is a **real-time chatting mobile application** designed to provide fast, s
 
 ## 📸 Screenshots
 
-> Add screenshots of your app UI here
+
 
 ```
 
@@ -104,9 +104,9 @@ Contributions are welcome!
 
 ## 👤 Author
 
-**Syed Nazmul Islam**
-Department of Information and Communication Technology
-Mawlana Bhashani Science and Technology University
+ **Syed Nazmul Islam**
+ Department of Information and Communication Technology
+ Mawlana Bhashani Science and Technology University
 
 ---
 
