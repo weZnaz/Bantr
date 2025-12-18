@@ -104,8 +104,8 @@ Contributions are welcome!
 
 ## 👤 Author
 
- **Syed Nazmul Islam**,
-Department of Information and Communication Technology,
+ **Syed Nazmul Islam**<br>
+Department of Information and Communication Technology<br>
 Mawlana Bhashani Science and Technology University
 
 ---
